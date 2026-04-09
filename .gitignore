@@ -1,0 +1,4 @@
+lib/.env
+lib/temp/
+lib/published_log.json
+lib/__pycache__/

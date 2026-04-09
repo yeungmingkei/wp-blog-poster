@@ -1,0 +1,21 @@
+site:
+  url: https://www.acdesign.com.hk
+  api_base: https://www.acdesign.com.hk/wp-json/wp/v2
+
+company:
+  name_zh: 藝創室內設計
+  name_en: Art Creation Interior Design
+  phone: "3105 1661"
+  whatsapp: "85252221129"
+  works_url: /works/house/
+  contact_url: /contactus/
+
+image:
+  model: imagen-4.0-generate-001
+  aspect_ratio: "16:9"
+  style: "Professional interior design photography, modern Hong Kong apartment"
+
+article:
+  zh_words: 800-1200
+  en_words: 500-800
+  status: publish
